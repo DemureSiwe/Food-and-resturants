@@ -173,3 +173,8 @@ span {
 .btn2:hover {
   transform: scale(1.1) translateX(12px);
 }
+
+header.sticky {
+  padding: 12px 14%;
+  background: var(--other-color);
+}
